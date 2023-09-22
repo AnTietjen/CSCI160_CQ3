@@ -1,0 +1,19 @@
+- Mini Max Sum:
+
+Initializing variables = constant time O(c)
+
+First for loop goes from i=1 until 4 = constant time O(4) 
+
+Second for loop goes from i=0 until 4 = constant time O(4)
+
+This code has a constant time complexity.
+
+- Hackerrank in a String!:
+
+Initializing variables = constant time O(c)
+
+For loop of current goes from i=0 until 9, while int i goes from i=0 to the length of the string = linear time O(n) where n is the length of the string
+
+Increasing current++ is constant work
+
+This code has linear time complexity.
